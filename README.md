@@ -43,7 +43,7 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 
 ## Installation
 
-To install Sparxmaths, you can follow the instructions for your preferred browser below:
+To install Sintco Sparxmaths Sintco, you can follow the instructions for your preferred browser below:
 
 - **Google Chrome**:  [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install.md)
 - **Microsoft Edge**: [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-edge.md)
