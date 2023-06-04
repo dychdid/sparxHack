@@ -16,13 +16,13 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 
 ## ⚡ Quick Setup
 
-1. Visit [JS Snippet](#installation) to copy install command to clipboard and click the Copy button.
-2. Log in to Sparxmaths and open the **Developers Console** with _Ctrl + Shift + J_
-3. Paste the code in the Console and press _Enter_.
-4. Star the repository 😄
+1. Visit [Bookmarklet](https://sintcoltd.github.io/web/gh/sparxmaths/bookmarklet.html)
+2. Drag the "Sintco Sparxmaths Solver" link onto your bookmarks
+3. Click on the bookmark when you are on https://yourschool.sparxmaths.uk/student/.
+4. It will load all of the [Features.](#-features)
+5. Star the repository 😄
 
-
-> **Note**: This is the temporary version of the program. Download the [Chrome Extension](#installation) to use it permanently.
+> **Note**: This is the temporary version of the program you will need to click on the bookmark every time you want to use it. Download the [Browser Extension](#installation) to use it permanently.
 
 
 ## ✨ Features
