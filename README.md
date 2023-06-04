@@ -83,8 +83,7 @@ With these color themes, you can personalize your experience using the extension
 ## Statistics and Future goals
 ### Statistics
 
-![Download Counter](https://img.shields.io/github/downloads/SintcoLTD/sparxmaths/total.svg)
-![View Counter](https://img.shields.io/github/watchers/SintcoLTD/sparxmaths.svg)
+[![Views Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSintcoLTD%2Fsparxmaths&count_bg=%2356F1F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Star Counter](https://img.shields.io/github/stars/SintcoLTD/sparxmaths.svg?style=social)
 
 Statistics starting from: 04/06/2023
