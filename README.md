@@ -18,7 +18,9 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 
 ## ⚡ Quick Setup
 
-1. Visit [Bookmarklet](https://sintcoltd.github.io/web/gh/sparxmaths/bookmarklet.html)
+This Requires **No** downloading or installing, Everthing is online.
+
+1. Visit [Bookmarklet](https://sparxmaths-bookmarklet.glitch.me/)
 2. Drag the "Sintco Sparxmaths Solver" link onto your bookmarks
 3. Click on the bookmark when you are on https://yourschool.sparxmaths.uk/student/.
 4. It will load all of the [Features.](#-features)
