@@ -82,7 +82,11 @@ With these color themes, you can personalize your experience using the extension
 
 #### Q. Do I have to copy and paste the JS Snippet every time?
 
-A. If you want the program to stay **permanently** instead of manually **injecting it**, install it [here](#installation).
+**A**. If you want the program to stay **permanently** instead of manually **injecting it**, install it [here](#installation).
+
+#### Q. Is this a Virus?
+
+**A**. This is not a Virus, this program aids in complete Sparxmaths. If you still feel unsure if this is a virus or not, you can put it through any antivirus program. You could use [VirusTotal](https://www.virustotal.com/) (Online Antivirus).
 
 
 ## 🗣 Feedback
