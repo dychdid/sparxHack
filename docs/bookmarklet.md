@@ -1,5 +1,14 @@
-## ⚡ Setup Instructions
+# ⚡ Setup Instructions
 
+## Quick Install
+
+1. Visit [Bookmarklet](https://sintcoltd.github.io/web/gh/sparxmaths/bookmarklet.html)
+2. Drag the "Sintco Sparxmaths Solver" link onto your bookmarks
+3. Click on the bookmark when you are on https://yourschool.sparxmaths.uk/student/.
+4. It will load all of the [Features.](#-features)
+5. Star the repository 😄
+
+## Manual Install
 1. Right-click on your bookmarks toolbar (or any other bookmark area) in your web browser and select "Add Page" or "Add Bookmark" from the context menu. This will open a dialog box.
 
 2. In the dialog box, enter a name for your bookmarklet. For example, you can use "Sintco Sparxmaths Solver".
