@@ -78,6 +78,21 @@ To see a list of all available themes and how to switch between them, check out 
 
 With these color themes, you can personalize your experience using the extension to make it easier on the eyes and more enjoyable to use.
 
+
+## Statistics and Future goals
+### Statistics
+
+![Download Counter](https://img.shields.io/github/downloads/SintcoLTD/sparxmaths/total.svg)
+![View Counter](https://img.shields.io/github/watchers/SintcoLTD/sparxmaths.svg)
+![Star Counter](https://img.shields.io/github/stars/SintcoLTD/sparxmaths.svg?style=social)
+
+Statistics starting from: 04/06/2023
+### Future Goals
+
+- Get 10 stars
+- 50 Downloads
+
+
 ## 🙋 FAQ
 
 #### Q. Do I have to copy and paste the JS Snippet every time?
