@@ -10,6 +10,8 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 - [Autosolve](#-autosolve)
 - [Installation](#installation)
 - [Colour Themes](#-colour-themes)
+- [Statistics](#statistics)
+- [Future Goals](#goal)
 - [Feedback](#-feedback)
 - [Acknowledgements](#-acknowledgements)
 
@@ -79,15 +81,13 @@ To see a list of all available themes and how to switch between them, check out 
 
 With these color themes, you can personalize your experience using the extension to make it easier on the eyes and more enjoyable to use.
 
-
-## Statistics and Future goals
-### Statistics
+## Statistics
 
 [![Views Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSintcoLTD%2Fsparxmaths&count_bg=%2356F1F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Star Counter](https://img.shields.io/github/stars/SintcoLTD/sparxmaths.svg?style=social)
 
 Statistics starting from: 04/06/2023
-### Future Goals
+## Goals
 
 - Get 10 stars
 - 50 Downloads
