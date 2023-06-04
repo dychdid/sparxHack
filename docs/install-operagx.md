@@ -11,3 +11,15 @@
 9. Click **"Select Folder"** to install the extension.
 
 > **Note:** The extension should now appear in the Extensions tab, and you can use it as you normally would. 
+
+# Extra
+
+If you found this program
+
+- Helpful, 
+- Benificial,
+- Or it is just Good!
+
+You can **Star the repository 😄**
+
+Click the Star on the Top-Right of the page [⭐](https://github.com/SintcoLTD/sparxmaths)
