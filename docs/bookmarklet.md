@@ -1,4 +1,4 @@
-## ⚡ Install Instructions
+## ⚡ Setup Instructions
 
 1. Right-click on your bookmarks toolbar (or any other bookmark area) in your web browser and select "Add Page" or "Add Bookmark" from the context menu. This will open a dialog box.
 
@@ -6,7 +6,7 @@
 
 3. In the "URL" or "Location" field of the dialog box, paste the following code:
 
-```javascript
+```
 javascript:(function() {
   var s = document.createElement('script');
   s.src = 'https://cdn.jsdelivr.net/gh/SintcoLTD/CDN@main/chrome-extension/sparxmaths/console/inject.js';
@@ -18,9 +18,8 @@ To paste the code, right-click in the field and choose "Paste" from the context 
 
 4. Click the "Save" or "Add" button to create the bookmarklet.
 
-Whenever you want to use the Sparxmaths solver, you can simply click on the Bookmark in the menu under the URL.
 
-> **Note** The extension should now appear in the Extensions tab, and you can use it as you normally would.
+> **Note** The Bookmarklet should now appear in the Bookmark tab, and you can use it by Simply clicking it.
 
 # Extra
 
