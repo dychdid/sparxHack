@@ -16,7 +16,7 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 - [Acknowledgements](#-acknowledgements)
 
 
-## ⚡ Quick Setup
+## ⚡ Quick Setup **(5 SECONDS!!!)**
 
 This Requires **No** downloading or installing, Everthing is online.
 
