@@ -92,7 +92,7 @@ Statistics starting from: 04/06/2023
 ## Goals
 
 - Get 10 stars
-- 50 Downloads
+- 10k Total Views
 
 
 ## 🙋 FAQ
