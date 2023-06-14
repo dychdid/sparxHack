@@ -55,6 +55,7 @@ To install Sintco Sparxmaths Sintco, you can follow the instructions for your pr
 - **FireFox**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-firefox.md) (Indev)*
 - **Bookmarklet**:    [Setup Instructions](https://github.com/NajmAjmal/sparxmaths/blob/main/docs/bookmarklet.md)
 
+### Javascript Snippet
 
 If you use a different browser, you can still use Sintco Sparxmaths Solver by pasting the JS Snippet into your browser's console:
 
