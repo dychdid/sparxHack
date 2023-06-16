@@ -102,9 +102,15 @@ Statistics starting from: 04/06/2023
 
 **A**. If you want the program to stay **permanently** instead of manually **injecting it**, install it [here](#installation).
 
+
 #### Q. Is this a Virus?
 
 **A**. This is not a Virus, this program aids in complete Sparxmaths. If you still feel unsure if this is a virus or not, you can put it through any antivirus program. You could use [VirusTotal](https://www.virustotal.com/) (Online Antivirus).
+
+
+#### Q: How do i turn off the Colour Themes.
+
+**You cant turn off the colour themes, but you can you [Sintco Sparxmaths Solver Void Edition](https://github.com/SintcoLTD/sparxmaths-void). It is the same program, but with not colour themes.** [Original Question](https://github.com/SintcoLTD/sparxmaths/issues/11)
 
 
 ## 🗣 Feedback
