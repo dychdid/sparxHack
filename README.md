@@ -92,7 +92,7 @@ With these color themes, you can personalize your experience using the extension
 Statistics starting from: 04/06/2023
 ## Goals
 
-- Get 10 stars
+- Get 10 stars **COMPLETED** @masdin655
 - 10k Total Views
 
 
