@@ -140,4 +140,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [SintcoLTD](https://github.com/SintcoLTD) & [Najm Ajmal](https://github.com/NajmAjmal)
+Made with ❤️ by [Najm Ajmal](https://github.com/NajmAjmal)
