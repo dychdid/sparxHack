@@ -92,8 +92,13 @@ With these color themes, you can personalize your experience using the extension
 Statistics starting from: 04/06/2023
 ## Goals
 
-- Get 10 stars **COMPLETED** @masdin655
-- 10k Total Views
+- Achieve 10 stars **COMPLETED** 23/05/2023 @masdin655 
+- Achieve 15 Stars
+- Achieve 25 Stars
+- Achieve 50 Stars
+- 10k Total Views **COMPLETED** 06/07/2023
+- 25k Total Views
+- 50k total Views
 
 
 ## 🙋 FAQ
