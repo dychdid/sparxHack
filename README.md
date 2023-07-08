@@ -6,14 +6,31 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 
 ## Table of Contents
 
-- [Features](#-features)
 - [Autosolve](#-autosolve)
+- [Features](#-features)
 - [Installation](#installation)
 - [Colour Themes](#-colour-themes)
 - [Statistics](#statistics)
 - [Future Goals](#goals)
 - [Feedback](#-feedback)
 - [Acknowledgements](#-acknowledgements)
+
+
+## 🎬 Autosolve
+
+<p align="center">
+  <img width="70%" src="https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/bookwork-code.png">
+</p>
+
+
+## ✨ Features
+
+- **9** different **color themes**
+- **Stores answers** (so you don't need to write them down)
+- **Automatically** highlights the **correct** bookwork check answer
+- **Automatically** selects the next task when pressing **Enter**
+- Works on **all** computers that allow **Inspect Element**
+- Can be used on **Android** (through Kiwi Browser)
 
 
 ## ⚡ Quick Setup **(5 SECONDS!!!)**
@@ -27,22 +44,6 @@ This Requires **No** downloading or installing, Everything is online.
 5. Star the repository 😄
 
 > **Note**: This is the temporary version of the program you will need to click on the bookmark every time you want to use it. Download the [Browser Extension](#installation) to use it permanently.
-
-
-## ✨ Features
-
-- **9** different **color themes**
-- **Stores answers** (so you don't need to write them down)
-- **Automatically** highlights the **correct** bookwork check answer
-- **Automatically** selects the next task when pressing **Enter**
-- Works on **all** computers that allow **Inspect Element**
-- Can be used on **Android** (through Kiwi Browser)
-
-## 🎬 Autosolve
-
-<p align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/bookwork-code.png">
-</p>
 
 
 ## Installation
