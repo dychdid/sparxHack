@@ -86,10 +86,11 @@ With these color themes, you can personalize your experience using the extension
 
 ## Statistics
 
+Statistics starting from: 04/06/2023
+
 [![Views Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSintcoLTD%2Fsparxmaths&count_bg=%2356F1F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](/)
 ![Star Counter](https://img.shields.io/github/stars/SintcoLTD/sparxmaths.svg?style=social)
 
-Statistics starting from: 04/06/2023
 ## Goals
 
 - Achieve 10 stars **COMPLETED** 23/05/2023 @masdin655 
