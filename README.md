@@ -93,7 +93,7 @@ Statistics starting from: 04/06/2023
 ## Goals
 
 - Achieve 10 stars **COMPLETED** 23/05/2023 @masdin655 
-- Achieve 15 Stars
+- Achieve 15 Stars **COMPLETED** 08/07/2023 @kincho4
 - Achieve 25 Stars
 - Achieve 50 Stars
 - 10k Total Views **COMPLETED** 06/07/2023
