@@ -117,8 +117,14 @@ Statistics starting from: 04/06/2023
 
 #### Q: How do I turn off the Colour Themes?
 
-**You can't turn off the colour themes, but you can you [Sintco Sparxmaths Solver Void Edition](https://github.com/SintcoLTD/sparxmaths-void). It is the same program, but with not colour themes.** [Original Question](https://github.com/SintcoLTD/sparxmaths/issues/11)
+**You can't turn off the colour themes, but you can use [Sintco Sparxmaths Solver Void Edition](https://github.com/SintcoLTD/sparxmaths-void). It is the same program, but with not colour themes.** [Original Question](https://github.com/SintcoLTD/sparxmaths/issues/11)
 
+#### Q: How do i access pre-release features?
+
+1. **BOOKMARKLET - Drag this [bookmarklet](https://sintcoltd.github.io/web/gh/sparxmaths/bookmarklets/sparxmaths-test.html) instead. It may not function correctly, since we may be experimenting with new features etc.**
+2. **EXTENSION - Download the extension by clicking the green code button, then downloading the zip file. After extracting the zip and navigating to the extensions folder, open the "inject.js" file. You can use [Sublime Text](https://www.sublimetext.com/download) or just change the file extension from .js to .txt. On the 3rd line edit the URL by replacing "main" to "test". Now you can access test and pre-release features.**
+
+*Remember to change back the file extension from .txt to .js*
 
 ## 🗣 Feedback
 
