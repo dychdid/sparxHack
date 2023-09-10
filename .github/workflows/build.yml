@@ -4,6 +4,7 @@ on:
   push:
     tags:
       - '*'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -23,27 +24,25 @@ jobs:
         run: |
           version=$(cat ./extension/manifest.json | grep -oE '[ ]+"version": "(.*)",' | grep -oE '[0-9]+\.[0-9]+\.[0-9]+')
           echo "value=$version" >> $GITHUB_ENV
-        
+
       - name: Install dependencies
-        id: dependencies
         run: |
           npm i -g pnpm
           pnpm i
 
       - name: Build codebase
-        id: build
         run: pnpm build
 
       - name: Compress dist directory
-        id: compress
         run: |
           mv dist sparxmaths-${{ steps.version.outputs.value }}
-          zip -r sparxmaths.zip sparxmaths-${{ steps.version.outputs.value }} & wait $!;
+          zip -r sparxmaths.zip v-${{ steps.version.outputs.value }} && wait $!
 
       - name: Create release
         uses: marvinpinto/action-automatic-releases@latest
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           prerelease: false
+          automatic_release_tag: SSS-${{ steps.unix.outputs.value }}"
           title: "Sintco Sparxmaths Solver ${{ steps.version.outputs.value }}"
           files: ./*.zip
