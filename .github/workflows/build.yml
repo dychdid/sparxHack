@@ -43,5 +43,5 @@ jobs:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           prerelease: false
           automatic_release_tag: azalea-${{ steps.unix.outputs.value }}
-          title: "Sparxmaths-Solver ${{ steps.version.outputs.value }}"
+          title: "Sintco Sparxmaths Solver ${{ steps.version.outputs.value }}"
           files: ./*.zip
