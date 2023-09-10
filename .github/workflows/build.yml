@@ -1,4 +1,4 @@
-name: Build Azalea and Release
+name: Build Sintco Sparxmaths Solver and Release
 on:
   push:
   workflow_dispatch:
