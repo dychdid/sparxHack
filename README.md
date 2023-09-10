@@ -6,17 +6,15 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 
 ## Table of Contents
 
-- [ Sintco Sparxmaths Solver](#-sintco-sparxmaths-solver)
-  - [Table of Contents](#table-of-contents)
-  - [🎬 Autosolve](#-autosolve)
-  - [✨ Features](#-features)
-  - [Installation](#installation)
-  - [Statistics](#statistics)
-  - [Goals](#goals)
-  - [🙋 FAQ](#-faq)
-  - [🗣 Feedback](#-feedback)
-  - [License](#license)
-  - [👏 Acknowledgements](#-acknowledgements)
+- [🎬 Autosolve](#-autosolve)
+- [✨ Features](#-features)
+- [Installation](#installation)
+- [Statistics](#statistics)
+- [Goals](#goals)
+- [🙋 FAQ](#-faq)
+- [🗣 Feedback](#-feedback)
+- [License](#license)
+- [👏 Acknowledgements](#-acknowledgements)
 
 
 ## 🎬 Autosolve
