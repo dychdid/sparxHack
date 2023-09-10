@@ -2,12 +2,11 @@
 
 Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to assist you with your sparx maths homework. Before using the extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md) before using the program.
 
-### ✩ *If you like this project, consider giving it a star!* ✩
+ **✩ *If you like this project, consider giving it a star!* ✩**
 
 ## Table of Contents
 
 - [ Sintco Sparxmaths Solver](#-sintco-sparxmaths-solver)
-    - [✩ *If you like this project, consider giving it a star!* ✩](#-if-you-like-this-project-consider-giving-it-a-star-)
   - [Table of Contents](#table-of-contents)
   - [🎬 Autosolve](#-autosolve)
   - [✨ Features](#-features)
@@ -15,8 +14,6 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
   - [Statistics](#statistics)
   - [Goals](#goals)
   - [🙋 FAQ](#-faq)
-      - [Q. Is this a Virus?](#q-is-this-a-virus)
-    - [**Notes on bundling:**](#notes-on-bundling)
   - [🗣 Feedback](#-feedback)
   - [License](#license)
   - [👏 Acknowledgements](#-acknowledgements)
