@@ -1,15 +1,13 @@
-name: Build and Release Sintco Sparxmaths Solver
+name: Create Release from manifest.json
 
 on:
   push:
     tags:
       - '*'
-  workflow_dispatch:
 
 jobs:
-  build:
-    name: Build codebase and release
-    runs-on: macos-latest
+  create-release:
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -20,24 +18,9 @@ jobs:
           version=$(cat ./extension/manifest.json | jq -r .version)
           echo "value=$version" >> $GITHUB_ENV
 
-      - name: Install dependencies
-        run: |
-          npm i -g pnpm
-          pnpm i
-
-      - name: Build codebase
-        run: pnpm build
-
-      - name: Compress dist directory
-        run: |
-          mv dist sparxmaths-${{ steps.read_version.outputs.value }}
-          zip -r sparxmaths.zip sparxmaths-${{ steps.read_version.outputs.value }} && wait $!
-
       - name: Create release
-        uses: marvinpinto/action-automatic-releases@latest
+        uses: softprops/action-gh-release@v1
         with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          prerelease: false
-          automatic_release_tag: SSS-${{ steps.read_version.outputs.value }}"
-          title: "Sintco Sparxmaths Solver ${{ steps.read_version.outputs.value }}"
           files: ./*.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
