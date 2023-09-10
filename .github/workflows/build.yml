@@ -1,4 +1,4 @@
-name: Build Sintco Sparxmaths Solver and Release
+name: Build Azalea and Release
 on:
   push:
   workflow_dispatch:
@@ -34,8 +34,8 @@ jobs:
       - name: Compress `dist` directory
         id: compress
         run: |
-          mv dist sparxmaths-${{ steps.version.outputs.value }}
-          zip -r Sintco-Sparxmaths-Solver.zip sparxmaths-${{ steps.version.outputs.value }} & wait $!;
+          mv dist Azalea-${{ steps.version.outputs.value }}
+          zip -r Azalea.zip Azalea-${{ steps.version.outputs.value }} & wait $!;
 
       - name: Create release
         uses: marvinpinto/action-automatic-releases@latest
@@ -43,5 +43,5 @@ jobs:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           prerelease: false
           automatic_release_tag: azalea-${{ steps.unix.outputs.value }}
-          title: "Sintco Sparxmaths Solver ${{ steps.version.outputs.value }}"
+          title: "Azalea ${{ steps.version.outputs.value }}"
           files: ./*.zip
