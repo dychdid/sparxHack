@@ -14,14 +14,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Get current unix seconds
-        id: unix
-        run: echo "value=$(date +'%s')" >> $GITHUB_ENV
-
-      - name: Get version
-        id: version
+      - name: Read version from manifest.json
+        id: read_version
         run: |
-          version=$(cat ./extension/manifest.json | grep -oE '[ ]+"version": "(.*)",' | grep -oE '[0-9]+\.[0-9]+\.[0-9]+')
+          version=$(cat ./extension/manifest.json | jq -r .version)
           echo "value=$version" >> $GITHUB_ENV
 
       - name: Install dependencies
@@ -34,15 +30,14 @@ jobs:
 
       - name: Compress dist directory
         run: |
-          mv dist sparxmaths-${{ steps.version.outputs.value }}
-          zip -r sparxmaths.zip sparxmaths-${{ steps.version.outputs.value }} && wait $!
+          mv dist sparxmaths-${{ steps.read_version.outputs.value }}
+          zip -r sparxmaths.zip sparxmaths-${{ steps.read_version.outputs.value }} && wait $!
 
       - name: Create release
-        id: create_release
         uses: marvinpinto/action-automatic-releases@latest
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           prerelease: false
-          automatic_release_tag: SSS-${{ steps.unix.outputs.value }}"
-          title: "Sintco Sparxmaths Solver ${{ steps.version.outputs.value }}"
+          automatic_release_tag: SSS-${{ steps.read_version.outputs.value }}"
+          title: "Sintco Sparxmaths Solver ${{ steps.read_version.outputs.value }}"
           files: ./*.zip
