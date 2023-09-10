@@ -16,8 +16,7 @@ jobs:
 
       - name: Get current unix seconds
         id: unix
-        run: |
-          echo "value=$(date +'%s')" >> $GITHUB_ENV
+        run: echo "value=$(date +'%s')" >> $GITHUB_ENV
 
       - name: Get version
         id: version
@@ -36,9 +35,10 @@ jobs:
       - name: Compress dist directory
         run: |
           mv dist sparxmaths-${{ steps.version.outputs.value }}
-          zip -r sparxmaths.zip v-${{ steps.version.outputs.value }} && wait $!
+          zip -r sparxmaths.zip sparxmaths-${{ steps.version.outputs.value }} && wait $!
 
       - name: Create release
+        id: create_release
         uses: marvinpinto/action-automatic-releases@latest
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
