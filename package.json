@@ -1,0 +1,30 @@
+{
+    "name": "azalea",
+    "version": "1.0.0",
+    "repository": "https://github.com/acquitelol/azalea.git",
+    "author": "Rosie",
+    "scripts": {
+        "build": "rollup -c --configPlugin esbuild --no-watch"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@rollup/plugin-json": "^6.0.0",
+        "@rollup/plugin-node-resolve": "^15.1.0",
+        "@types/node": "^20.6.0",
+        "@types/react": "^18.2.21",
+        "@types/react-dom": "^18.2.7",
+        "esbuild": "^0.18.13",
+        "immutable": "^4.3.1",
+        "node": "^20.6.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "rollup": "^3.26.2",
+        "rollup-plugin-commonjs": "^10.1.0",
+        "rollup-plugin-esbuild": "^5.0.0",
+        "rollup-plugin-typescript-paths": "^1.4.0",
+        "typescript": "^5.1.6"
+    },
+    "dependencies": {
+        "spitroast": "^1.4.3"
+    }
+}

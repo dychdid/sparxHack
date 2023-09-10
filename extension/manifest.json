@@ -1,42 +1,49 @@
 {
+    "name": " Sintco Sparxmaths Solver",
+    "version": "2.0",
+    "description": "Sintco Sparxmaths Solver",
     "manifest_version": 3,
-    "name": "Sintco Sparxmaths Solver",
-    "version": "1.5.1",
-    "description": "Stores bookwork codes and has colour themes",
-
+    "author": "Najm Ajmal & Rosie",
     "host_permissions": [
-        "*://*.sparxmaths.uk/student/*"
+        "*://www.sparxmaths.uk/*",
+        "https://auth.sparxmaths.uk/*"
     ],
-
     "icons": {
-        "512": "logo.png"
+        "256": "assets/logo.png"
     },
-
     "action": {
         "default_icon": {
-            "512": "logo.png"
+            "256": "assets/logo.png"
         },
-        "default_title": "Sintco Sparxmaths Solver",
-        "default_popup": "popup.html"
+        "default_title": "Sparxmaths Solver"
     },
-
     "permissions": [
         "activeTab",
         "storage",
         "downloads"
     ],
-
     "content_scripts": [
         {
-            "matches": [
-                "*://*.sparxmaths.uk/student/*"
+            "js": [
+                "src/index.ts"
             ],
-            "js": ["contentScript.js"]
+            "css": [
+                "styles.css"
+            ],
+            "matches": [
+                "https://*.sparxmaths.uk/*"
+            ],
+            "run_at": "document_start"
         }
     ],
-
-    "web_accessible_resources": [{
-        "resources": ["inject.js"],
-        "matches": ["<all_urls>"]
-    }]
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "bundle.js"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
+    ]
 }
