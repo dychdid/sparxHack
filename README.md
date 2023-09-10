@@ -78,7 +78,7 @@ Statistics starting from: 04/06/2023
 **A**. This is not a Virus, this program aids in complete Sparxmaths. If you still feel unsure if this is a virus or not, you can put it through any antivirus program. You could use [VirusTotal](https://www.virustotal.com/) (Online Antivirus).
 
 
-### **Notes on bundling:**
+## **Notes on bundling:**
 
 - The codebase **is minified into a bundle**, but this is simply done to reduce file size when installing. This means that **all of the source code is public** and the codebase is transformed into a bundle using GitHub Actions
 - This ensures that the code is safe to use for everyone! If you don't trust me, the actions, or want to be extra sure, *which is perfectly fair enough*, **clone the repository and build the extension yourself**!
