@@ -37,11 +37,10 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 
 To install Sintco Sparxmaths Sintco, you can follow the instructions for your preferred browser below:
 
-- **Google Chrome**:  [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install.md)
-- **Microsoft Edge**: [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-edge.md)
-- **OperaGX**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-operagx.md)
-- **FireFox**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-firefox.md) (Indev)*
-- **Bookmarklet**:    [Setup Instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/bookmarklet.md)
+- **Google Chrome**:  [Installation instructions](https://github.com/NajmAjmal/sparxmaths/blob/main/docs/install.md)
+- **Microsoft Edge**: [Installation instructions](https://github.com/NajmAjmal/sparxmaths/blob/main/docs/install-edge.md)
+- **OperaGX**:        [Installation instructions](https://github.com/NajmAjmal/sparxmaths/blob/main/docs/install-operagx.md)
+- **FireFox**:        [Installation instructions](https://github.com/NajmAjmal/sparxmaths/blob/main/docs/install-firefox.md) (Indev)*
 
 
 This script fetches the latest JavaScript code from GitHub and dynamically injects it into the Sparxmaths website. By adding this additional code, it adds extra [features](#-features) to the website that allow it to function without the need to install the extension. You can also use the Bookmarklet.
