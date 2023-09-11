@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👏 Acknowledgements
 
-- Thanks to [Rosie](https://github.com/acquitelol) for the 
+- Thanks to [Rosie](https://github.com/acquitelol) for the the update to "sparx-v2". [More info](https://github.com/acquitelol/azalea/blob/azalea-1694299581/LICENSE)
 - Thanks to [Glitch](https://glitch.com/) for hosting the "[sparxmaths.glitch.me](https://sparxmaths.glitch.me)" website
 - Thanks to [Shields.io](https://shields.io/) for providing the status badge in this README
 - Thanks to [Caio Rordrigues](https://github.com/caiorss) for [Bookmarklet Maker](https://caiorss.github.io/bookmarklet-maker/)
