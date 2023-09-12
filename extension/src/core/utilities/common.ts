@@ -4,8 +4,8 @@ const { preferences } = storages;
 
 const name = {
     defaults: {
-        firstName: 'Rosie',
-        lastName: ':3'
+        firstName: 'Najm',
+        lastName: 'Ajmal'
     },
 
     get firstName() {
@@ -22,8 +22,8 @@ const name = {
 };
 
 const repository = {
-    plain: 'https://github.com/acquitelol/azalea',
-    raw: 'https://raw.githubusercontent.com/acquitelol/azalea'
+    plain: 'https://github.com/NajmAjmal/sparxmaths',
+    raw: 'https://raw.githubusercontent.com/NajmAjmal/sparxmaths'
 };
 const getImage = (name: string) => `${repository.raw}/main/extension/assets/${name}`;
 const capitalize = (s: string) => s.trim().replace(/^\w/, m => m.toUpperCase());
