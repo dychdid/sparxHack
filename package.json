@@ -1,7 +1,7 @@
 {
-    "name": "azalea",
+    "name": "sparxmaths",
     "version": "1.0.0",
-    "repository": "https://github.com/acquitelol/azalea.git",
+    "repository": "https://github.com/NajmAjmal/sparxmaths",
     "author": "Rosie",
     "scripts": {
         "build": "rollup -c --configPlugin esbuild --no-watch"
