@@ -107,4 +107,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Najm Ajmal](https://github.com/NajmAjmal) & [Rosie](https://github.com/acquitelol)
+Made by [Najm Ajmal](https://github.com/NajmAjmal) & [Rosie](https://github.com/acquitelol)
