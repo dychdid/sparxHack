@@ -52,7 +52,7 @@ This script fetches the latest JavaScript code from GitHub and dynamically injec
 Statistics starting from: 04/06/2023
 
 [![Views Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSintcoLTD%2Fsparxmaths&count_bg=%2356F1F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](/)
-![Star Counter](https://img.shields.io/github/stars/SintcoLTD/sparxmaths.svg?style=social)
+![Star Counter](https://img.shields.io/github/stars/NajmAjmal/sparxmaths.svg?style=social)
 
 ## Goals
 
