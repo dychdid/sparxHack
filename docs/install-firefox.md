@@ -1,6 +1,7 @@
 ## ⚡ Install Instructions
 
-> **Note** this is currently in Testing Phase and may be modified or Discontiued in the future
+> **Note** THIS IS NOT FUNCTIONING NOW, IT REQUIRES THE BOOKMARKLET FEATURE. THE BOOKMARKLET FEATURE IS CURRENTLY BEING RE-CONSTRUCTED.
+
 1. Open the Firefox browser.
 2. Navigate to the Sparxmaths Website.
 3. Right-click on any empty area of the website.
