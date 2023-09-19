@@ -1,1 +1,13 @@
-(function(){async function n(c,t=!1){const e=document.createElement("script");e.src=c,e.async=t,(document.head||document.body||document.documentElement).appendChild(e)}n(window.chrome.runtime.getURL("bundle.js"))})();
+async function fetchScript() {
+    try {
+        let response = await fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/release.json');
+        let json = await response.json();
+
+        let js = document.createElement("script");
+        js.src = json.contentScript;
+        js.async = false;
+        js.defer = false;
+        document.head.appendChild(js);
+    } catch(err) {}
+}
+fetchScript();
