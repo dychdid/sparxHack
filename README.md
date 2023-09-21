@@ -1,6 +1,6 @@
 # <img src="extension/assets/logo.png" style="width: 2rem"> Sintco Sparxmaths Solver
 
-Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to assist you with your sparx maths homework. For a Updated and Overall better UX, Do use the original, [Azalea](https://github.com/acquitelol/azalea). Before using this extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md).
+Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to assist you with your sparx maths homework. Do use the original, [Azalea](https://github.com/acquitelol/azalea). Before using this extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md).
  **✩ *If you like this project, consider giving it a star!* ✩**
 
 ## Table of Contents
