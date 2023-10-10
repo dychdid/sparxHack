@@ -62,7 +62,7 @@ To Install Sintco Sparxmaths Solver, you can follow the instructions for your pr
 - Achieve 25 Stars
 - Achieve 50 Stars
 - 10k Total Views **COMPLETED** 06/07/2023
-- 25k Total Views
+- 25k Total Views **COMPLETED** 10/10/2023
 - 50k total Views
 
 
