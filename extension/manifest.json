@@ -1,21 +1,21 @@
 {
-    "name": "Sintco Sparxmaths Solver",
-    "version": "3.0.2",
-    "description": "Easy Bookwork-code Bypass",
+    "name": "SparxSolver",
+    "version": "5.0",
+    "description": "Sparx with QOL and NO BOOKWORK CODES",
     "manifest_version": 3,
-    "author": "Najm Ajmal",
+    "author": "N/A",
     "host_permissions": [
         "*://www.sparxmaths.uk/*",
         "https://auth.sparxmaths.uk/*"
     ],
     "icons": {
-        "256": "assets/logo.png"
+        "128": "assets/logo.png"
     },
     "action": {
         "default_icon": {
-            "256": "assets/logo.png"
+            "128": "assets/logo.png"
         },
-        "default_title": "Sintco Sparxmaths Solver"
+        "default_title": "SparxSolver"
     },
     "permissions": [
         "activeTab",
@@ -25,7 +25,7 @@
     "content_scripts": [
         {
             "js": [
-                "inject.js"
+                "index.js"
             ],
             "css": [
                 "styles.css"
@@ -39,7 +39,7 @@
     "web_accessible_resources": [
         {
             "resources": [
-                "bundle.js","inject.js","https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/release.json"
+                "main.js"
             ],
             "matches": [
                 "<all_urls>"
