@@ -1,6 +1,6 @@
 # <img src="extension/assets/logo.png" style="width: 2rem"> SparxSolver
 
-Welcome to **SparxSolver**, a Free browser extension designed to assist you with your sparx maths homework. Before using this extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/SparxSolver/TC.md).
+Welcome to **SparxSolver**, a Free browser extension designed to assist you with your sparx maths homework. Before using this extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md).
  **✩ *If you like this project, consider giving it a star!* ✩**
 
 ## Table of Contents
@@ -11,7 +11,6 @@ Welcome to **SparxSolver**, a Free browser extension designed to assist you with
   - [✨ Features](#-features)
   - [Installation](#installation)
   - [Statistics](#statistics)
-      - [Statistics Starting from: 14/10/2023](#statistics-starting-from-14102023)
   - [License](#license)
   - [👏 Acknowledgements](#-acknowledgements)
 
@@ -19,7 +18,7 @@ Welcome to **SparxSolver**, a Free browser extension designed to assist you with
 ## 🎬 Autosolve
 
 <p align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/SparxSolver/images/bookwork-code.png">
+  <img width="70%" src="https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/bookwork-code.png">
 </p>
 
 
@@ -66,6 +65,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to all contributors who have helped improve this project
 
 
-`THIS PROGRAM HAS NO CONNECTION WITH SparxSolver. SPARX MATHS IS OWNED BY SPARX LTD.`
+`THIS PROGRAM HAS NO CONNECTION WITH SPARXMATHS. SPARX MATHS IS OWNED BY SPARX LTD.`
 
 ---
