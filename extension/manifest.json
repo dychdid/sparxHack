@@ -3,7 +3,7 @@
     "version": "5.0",
     "description": "Sparx with QOL and NO BOOKWORK CODES",
     "manifest_version": 3,
-    "author": "N/A",
+    "author": "C0lide",
     "host_permissions": [
         "*://www.sparxmaths.uk/*",
         "https://auth.sparxmaths.uk/*"

@@ -3,6 +3,7 @@
 Incomplete and generally out of date copyright list::
 
         Copyright (C) 2023 Sintco Ltd
+        Copyright (C) 2023 Najm Ajmal
         Copyright (C) 2023 Sparx Limited
         Copyright (C) 2023 Alex Lo Storto
         All Rights Reserved.
