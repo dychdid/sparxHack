@@ -174,7 +174,7 @@
 	var U1 = {
 		name: j1,
 		repository: Ir,
-		getImage: r => `${Ir.raw}/sparx-v2/extension/assets/${r}`,
+		getImage: r => `${Ir.raw}/main/extension/assets/${r}`,
 		capitalize: r => r.trim().replace(/^\w/, e => e.toUpperCase()),
 		noop: () => {}
 	};
@@ -10897,7 +10897,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 			})),
 			sublabel: pt.description,
 			trailing: Ae.createElement("img", {
-				src: Cl("assets/logo.png"),
+				src: Cl("logo.png"),
 				style: {
 					width: "4em"
 				},
@@ -11810,7 +11810,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 	} = l0;
 	async function Zs() {
 		const r = (await Ys(() => document.querySelector('[class*="_SMLogo_g7mut_"]'))).childNodes[0];
-		r.src = Xs("assets/logo.png"), r.style.width = "50px"
+		r.src = Xs("logo.png"), r.style.width = "50px"
 	}
 	Promise.allSettled([Ms(), Vs(), Ws(), Zs()])
 })();
