@@ -11,8 +11,7 @@ Welcome to **SparxSolver**, a Free browser extension designed to assist you with
   - [✨ Features](#-features)
   - [Installation](#installation)
   - [Statistics](#statistics)
-      - [Statistics Starting from: 04/06/2023](#statistics-starting-from-04062023)
-      - [Statistics Starting from: 15/09/2023](#statistics-starting-from-15092023)
+      - [Statistics Starting from: 14/10/2023](#statistics-starting-from-14102023)
   - [License](#license)
   - [👏 Acknowledgements](#-acknowledgements)
 
@@ -47,12 +46,9 @@ To Install SparxSolver, you can follow the instructions for your preferred brows
 
 ## Statistics
 
-#### Statistics Starting from: 04/06/2023
+#### Statistics Starting from: 14/10/2023
 
 [![Views Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSintcoLTD%2FSparxSolver&count_bg=%2356F1F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](/)
-
-#### Statistics Starting from: 15/09/2023
-[![Views Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc0lide%2FSparxSolver&count_bg=%2356F1F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](/)
 
 ![Star Counter](https://img.shields.io/github/stars/c0lide/SparxSolver.svg?style=social)
 
@@ -64,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👏 Acknowledgements
 
-- Thanks to [Glitch](https://glitch.com/) for hosting the "[SparxSolver.glitch.me](https://SparxSolver.glitch.me)" website
+- Thanks to [Glitch](https://glitch.com/) for hosting the "[sparxmaths.glitch.me](https://sparxmaths.glitch.me)" website
 - Thanks to [Shields.io](https://shields.io/) for providing the status badge in this README
 - Thanks to [Caio Rordrigues](https://github.com/caiorss) for [Bookmarklet Maker](https://caiorss.github.io/bookmarklet-maker/)
 - Thanks to all contributors who have helped improve this project
