@@ -10730,7 +10730,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 		})
 	};
 	var cl = "SparxSolver",
-		dl = "5.1",
+		dl = "5.2",
 		fl = "Sparx with QOL and NO BOOKWORK CODES",
 		pl = 3,
 		vl = "C0lide",
