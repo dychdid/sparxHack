@@ -45,12 +45,10 @@ To Install SparxSolver, you can follow the instructions for your preferred brows
 
 ## Statistics
 
-#### Statistics Starting from: 14/10/2023
-
-[![Views Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSintcoLTD%2FSparxSolver&count_bg=%2356F1F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](/)
-
-![Star Counter](https://img.shields.io/github/stars/c0lide/SparxSolver.svg?style=social)
-
+#### Statistics Starting from: 12/11/2023
+![Star Counter](https://img.shields.io/github/stars/dychdid/SparxSolver.svg?style=social)
+<br>
+![GitHub forks](https://img.shields.io/github/forks/dychdid/SparxSolver?style=social)
 
 ## License
 
