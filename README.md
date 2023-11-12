@@ -32,7 +32,7 @@ Welcome to **SparxSolver**, a Free browser extension designed to assist you with
 ## Installation
 
 1. Go to the [Latest release](https://github.com/c0lide/SparxSolver/releases)
-2. Download the `extension.zip` file
+2. Download the `x.x.x.zip` file
 3. Once downloaded, extract all the content
 4. Open your preferred Browser of choice,
 
