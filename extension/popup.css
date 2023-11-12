@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color: dodgerblue;
+    padding: 20px;
+}
+
+h1, h2, h3, p {
+    text-align: center;
+    color: white;
+}
+
+hr {
+  height: 3px;
+  background-color: darkslategray;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 100px;
+}

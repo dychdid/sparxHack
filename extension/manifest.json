@@ -15,7 +15,8 @@
         "default_icon": {
             "128": "assets/logo.png"
         },
-        "default_title": "SparxSolver"
+        "default_title": "SparxSolver",
+        "default_popup": "popup.html"
     },
     "permissions": [
         "activeTab",
