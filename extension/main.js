@@ -10733,14 +10733,14 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 		dl = "5.2",
 		fl = "Sparx with QOL and NO BOOKWORK CODES",
 		pl = 3,
-		vl = "C0lide",
+		vl = "dychdid",
 		gl = ["*://www.sparxmaths.uk/*", "https://auth.sparxmaths.uk/*"],
 		bl = {
-			128: "assets/logo.png"
+			128: "assets/SmallerLogo.png"
 		},
 		yl = {
 			default_icon: {
-				128: "assets/logo.png"
+				128: "assets/.png"
 			},
 			default_title: "SparxSolver"
 		},
@@ -10897,7 +10897,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 			})),
 			sublabel: pt.description,
 			trailing: Ae.createElement("img", {
-				src: Cl("logo.png"),
+				src: Cl("assets/SmallerLogo.png"),
 				style: {
 					width: "4em"
 				},
@@ -11810,7 +11810,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 	} = l0;
 	async function Zs() {
 		const r = (await Ys(() => document.querySelector('[class*="_SMLogo_g7mut_"]'))).childNodes[0];
-		r.src = Xs("logo.png"), r.style.width = "50px"
+		r.src = Xs("assets/SmallerLogo.png"), r.style.width = "50px"
 	}
 	Promise.allSettled([Ms(), Vs(), Ws(), Zs()])
 })();
