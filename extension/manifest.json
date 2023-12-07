@@ -1,9 +1,9 @@
 {
     "name": "SparxSolver",
     "version": "5.2",
-    "description": "Sparx with QOL and NO BOOKWORK CODES",
+    "description": "Sparx with QOL and Bookwork Logger and Themes",
     "manifest_version": 3,
-    "author": "C0lide",
+    "author": "dychdid",
     "host_permissions": [
         "*://www.sparxmaths.uk/*",
         "https://auth.sparxmaths.uk/*"
