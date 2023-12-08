@@ -1,7 +1,7 @@
 {
     "name": "SparxHack",
     "version": "1.0.0",
-    "description": "Sparx with QOL and Bookwork Logger and Themes",
+    "description": "Sparx with QOL, Bookwork Logger and Themes",
     "manifest_version": 3,
     "author": "dychdid",
     "host_permissions": [

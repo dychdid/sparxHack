@@ -10730,8 +10730,8 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 		})
 	};
 	var cl = "SparxHack",
-		dl = "5.2",
-		fl = "Sparx with QOL and NO BOOKWORK CODES",
+		dl = "1.0.0",
+		fl = "Sparx with QOL, Bookwork Logger and Themes",
 		pl = 3,
 		vl = "dychdid",
 		gl = ["*://www.sparxmaths.uk/*", "https://auth.sparxmaths.uk/*"],
