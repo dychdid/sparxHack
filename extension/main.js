@@ -145,9 +145,9 @@
 		}
 	};
 	const C0 = {
-			colors: new Ve("SparxSolverCustomTheme", !1),
-			preferences: new Ve("SparxSolverPreferences", !1),
-			bookwork: new Ve("SparxSolverBookwork")
+			colors: new Ve("SparxHackCustomTheme", !1),
+			preferences: new Ve("SparxHackPreferences", !1),
+			bookwork: new Ve("SparxHackBookwork")
 		},
 		{
 			preferences: fe
@@ -165,11 +165,11 @@
 			}
 		},
 		Ir = {
-			user: "https://github.com/c0lide",
+			user: "https://github.com/dychdid",
 			get plain() {
-				return this.user + "/SparxSolver"
+				return this.user + "/SparxHack"
 			},
-			raw: "https://raw.githubusercontent.com/c0lide/SparxSolver"
+			raw: "https://raw.githubusercontent.com/dychdid/sparxHack"
 		};
 	var U1 = {
 		name: j1,
@@ -247,7 +247,7 @@
 	}
 
 	function Z1(r, e = "/student") {
-		SparxSolver.navigation.navigator.replace(e ? `${e}${r}` : r)
+		SparxHack.navigation.navigator.replace(e ? `${e}${r}` : r)
 	}
 
 	function K1(r) {
@@ -10513,7 +10513,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 	}, ke = new Proxy(console, {
 		get(r, e) {
 			return Qi.get("logger") ? function(...t) {
-				return r[e].call(console, `%c SparxSolver %c %c ${el(String(e))} `, gr(), "", gr({
+				return r[e].call(console, `%c SparxHack %c %c ${el(String(e))} `, gr(), "", gr({
 					background: dt[e] ?? dt.log,
 					bold: !1
 				}), ...t)
@@ -10729,7 +10729,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 			...t
 		})
 	};
-	var cl = "SparxSolver",
+	var cl = "SparxHack",
 		dl = "5.2",
 		fl = "Sparx with QOL and NO BOOKWORK CODES",
 		pl = 3,
@@ -10742,7 +10742,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 			default_icon: {
 				128: "assets/.png"
 			},
-			default_title: "SparxSolver"
+			default_title: "SparxHack"
 		},
 		wl = ["activeTab", "storage", "downloads"],
 		xl = [{
@@ -10851,7 +10851,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 		React: ze
 	} = t0, Al = [{
 		label: "Logger",
-		sublabel: "Toggles SparxSolver's custom Logger in the Developer console.",
+		sublabel: "Toggles SparxHack's custom Logger in the Developer console.",
 		option: "logger"
 	}, {
 		label: "Anonymize Name",
@@ -10888,7 +10888,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 		}, Ae.createElement(Me, {
 			label: Ae.createElement("div", {
 				style: X.merge(r => [r.flex, r.align])
-			}, Ae.createElement("h1", null, "Welcome to SparxSolver!"), Ae.createElement(El, {
+			}, Ae.createElement("h1", null, "Welcome to SparxHack!"), Ae.createElement(El, {
 				text: "Back",
 				style: {
 					marginLeft: 10
@@ -11255,7 +11255,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 		React: Ql
 	} = t0, {
 		navigate: es
-	} = l0, M1 = "/SparxSolver/settings";
+	} = l0, M1 = "/SparxHack/settings";
 	var ts = {
 		Item: class {
 			constructor() {
@@ -11450,7 +11450,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 		React: ps
 	} = t0, {
 		navigate: vs
-	} = l0, B1 = "/SparxSolver/bookwork";
+	} = l0, B1 = "/SparxHack/bookwork";
 	var gs = {
 			Item: class {
 				constructor() {
@@ -11551,7 +11551,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 	async function Ms() {
 		const r = await Ss(() => le.common.React, e => typeof e.useContext == "function" && typeof e.createElement == "function");
 		Pe.after("useContext", r, (e, t) => {
-			t && t.router && t.navigator && (SparxSolver.navigation = t, Object.values(E1).filter(a => a.Route).map(a => new a.Route).forEach(a => {
+			t && t.router && t.navigator && (SparxHack.navigation = t, Object.values(E1).filter(a => a.Route).map(a => new a.Route).forEach(a => {
 				t.router.routes[0].children.find(n => n.path === a.path) || t.router.routes[0].children.push({
 					path: a.path,
 					element: r.createElement("div", {
@@ -11682,7 +11682,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 	}), Ls = ({
 		answers: r
 	}) => re.createElement("div", {
-		id: "SparxSolver-wac-content",
+		id: "SparxHack-wac-content",
 		style: X.merge(e => [e.textCenter, {
 			marginInline: "6em"
 		}])
@@ -11732,9 +11732,9 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 			const m = o[1],
 				p = $s.get(m) ?? [],
 				v = Array.isArray(p) ? p.filter(b => Array.isArray(b.answers)) : [];
-			if (i.find(b => b.props.SparxSolver) || i.push(re.createElement(Ls, {
+			if (i.find(b => b.props.SparxHack) || i.push(re.createElement(Ls, {
 					answers: v,
-					SparxSolver: !0
+					SparxHack: !0
 				})), !Is.get("autoBookwork")) return ke.info("Autobookwork is disabled.");
 			u?.props?.choices.forEach(({
 				element: {
@@ -11774,7 +11774,7 @@ l0,-` + (t + 144) + `c-2,-159.3,-10,-310.7,-24,-454c-53.3,-528,-210,-949.7,
 		};
 
 	function Vs() {
-		window.SparxSolver = Gs, window.__sparxweb && (window.__sparxweb.environment = "development"), window.location.href.includes("SparxSolver") && (window.location.href = window.location.href.replace(/SparxSolver\/.*/g, ""))
+		window.SparxHack = Gs, window.__sparxweb && (window.__sparxweb.environment = "development"), window.location.href.includes("SparxHack") && (window.location.href = window.location.href.replace(/SparxHack\/.*/g, ""))
 	}
 	const {
 		name: I1,

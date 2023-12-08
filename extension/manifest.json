@@ -1,6 +1,6 @@
 {
-    "name": "SparxSolver",
-    "version": "5.2",
+    "name": "SparxHack",
+    "version": "1.0.0",
     "description": "Sparx with QOL and Bookwork Logger and Themes",
     "manifest_version": 3,
     "author": "dychdid",
@@ -15,7 +15,7 @@
         "default_icon": {
             "128": "assets/logo.png"
         },
-        "default_title": "SparxSolver",
+        "default_title": "SparxHack",
         "default_popup": "popup.html"
     },
     "permissions": [
