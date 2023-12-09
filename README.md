@@ -32,24 +32,24 @@ Welcome to **SparxSolver**, a free browser extension designed to assist you with
 
 ## Installation
 
-1. Go to the [Latest release](https://github.com/dychdid/SparxSolver/releases)
+1. Go to the [Latest release](https://github.com/dychdid/sparxHack/releases)
 2. Download the `x.x.x.zip` file
 3. Once downloaded, extract all the content
 4. Open your preferred Browser of choice,
 
 To Install SparxSolver, you can follow the instructions for your preferred browser below:
 
-- **Google Chrome**:  [Installation instructions](https://github.com/dychdid/SparxSolver/blob/main/docs/install.md)
-- **Microsoft Edge**: [Installation instructions](https://github.com/dychdid/SparxSolver/blob/main/docs/install-edge.md)
-- **OperaGX**:        [Installation instructions](https://github.com/dychdid/SparxSolver/blob/main/docs/install-operagx.md)
-- **FireFox**:        [Installation instructions](https://github.com/dychdid/SparxSolver/blob/main/docs/install-firefox.md) (Indev)*
+- **Google Chrome**:  [Installation instructions](https://github.com/dychdid/sparxHack/blob/main/docs/install.md)
+- **Microsoft Edge**: [Installation instructions](https://github.com/dychdid/sparxHack/blob/main/docs/install-edge.md)
+- **OperaGX**:        [Installation instructions](https://github.com/dychdid/sparxHack/blob/main/docs/install-operagx.md)
+- **FireFox**:        [Installation instructions](https://github.com/dychdid/sparxHack/blob/main/docs/install-firefox.md) (Indev)*
 
 ## Statistics
 
-#### Statistics Starting from: 12/11/2023
-![Star Counter](https://img.shields.io/github/stars/dychdid/SparxSolver.svg?style=social)
+#### Statistics Starting from: 09/12/2023
+![Star Counter](https://img.shields.io/github/stars/dychdid/sparxHack.svg?style=social)
 <br>
-![GitHub forks](https://img.shields.io/github/forks/dychdid/SparxSolver?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dychdid/sparxHack?style=social)
 
 ## License
 
