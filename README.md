@@ -6,7 +6,7 @@ Welcome to **SparxHack**, a free browser extension designed to assist you with y
 
 ## Table of Contents
 
-- [ SparxSolver](#-sparxsolver)
+- [ SparxHack](#-sparxhack)
   - [Table of Contents](#table-of-contents)
   - [🎬 Autosolve](#-autosolve)
   - [✨ Features](#-features)
@@ -37,7 +37,7 @@ Welcome to **SparxHack**, a free browser extension designed to assist you with y
 3. Once downloaded, extract all the content
 4. Open your preferred Browser of choice,
 
-To Install SparxSolver, you can follow the instructions for your preferred browser below:
+To Install SparxHack, you can follow the instructions for your preferred browser below:
 
 - **Google Chrome**:  [Installation instructions](https://github.com/dychdid/sparxHack/blob/main/docs/install.md)
 - **Microsoft Edge**: [Installation instructions](https://github.com/dychdid/sparxHack/blob/main/docs/install-edge.md)
