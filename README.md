@@ -1,6 +1,6 @@
-# <img src="extension/assets/logo.png" style="width: 2rem"> SparxSolver
+# <img src="extension/assets/logo.png" style="width: 2rem"> SparxHack
 
-Welcome to **SparxSolver**, a free browser extension designed to assist you with your SparxMaths homework. Before using this extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md).
+Welcome to **SparxHack**, a free browser extension designed to assist you with your SparxMaths homework. Before using this extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md).
 <br>
  **✩ *If you like this project, consider giving it a star!* ✩**
 
