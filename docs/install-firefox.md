@@ -10,7 +10,7 @@
 6. To access the browser console, click on the "Console" tab at the top of the Developer Tools panel.
    You can also switch to the "Console" tab using the keyboard shortcut:
 9. In the Console, execute the command 'allow paste'
-10. Copy the Quick Install command from [#install](https://github.com/c0lide/SparxSolver#installation)
+10. Copy the Quick Install command from [#install](https://github.com/dychdid/sparxHack#installation)
 
 # Extra
 
@@ -22,4 +22,4 @@ If you found this program
 
 You can **Star the repository 😄**
 
-Click the Star on the Top-Right of the page [⭐](https://github.com/c0lide/SparxSolver)
+Click the Star on the Top-Right of the page [⭐](https://github.com/dychdid/sparxHack)
