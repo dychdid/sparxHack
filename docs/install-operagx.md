@@ -1,6 +1,6 @@
 ## ⚡ Install Instructions
 
-1. Follow the [Download instructions](https://github.com/c0lide/SparxSolver#installation)
+1. Follow the [Download instructions](https://github.com/dychdid/sparxHack#installation)
 2. Open **OperaGX** on your Windows computer.
 3. Click the three-dot menu icon in the top-right corner of the OperaGX window and select **"Extensions"** from the drop-down menu.
 4. In the Extensions tab, toggle on the **"Developer mode"** switch located in the top-right corner of the window.
