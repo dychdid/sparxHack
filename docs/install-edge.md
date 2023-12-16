@@ -22,4 +22,4 @@ If you found this program
 
 You can **Star the repository 😄**
 
-Click the Star on the Top-Right of the page [⭐](https://github.com/c0lide/SparxSolver)
+Click the Star on the Top-Right of the page [⭐](https://github.com/dychdid/sparxHack)
